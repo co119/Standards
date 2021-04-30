@@ -17,7 +17,7 @@ In order to properly test the sites, you will need to temporarily set the DNS fo
 
 #### On Windows
 
-1. Press the `Windows key`
+1. Press the `Windows` key
 1. Type `Notepad` in the search field
 1. In the search results, right-click `Notepad` and select `Run as administrator`
 1. From Notepad, open the following file: `c:\Windows\System32\Drivers\etc\hosts`
@@ -50,7 +50,7 @@ In order to properly test the sites, you will need to temporarily set the DNS fo
 
 #### On Windows
 
-1. Press the `Windows key`
+1. Press the `Windows` key
 1. Type `cmd` in the search field and press `Enter`
 1. In the `Command Prompt`, type `ipconfig domain.com` (replace `domain.com` with the domain you are testing)
 1. Press `Enter`
@@ -68,6 +68,6 @@ In order to properly test the sites, you will need to temporarily set the DNS fo
 
 ### How to remove the `hosts` file changes
 
-1. [Open](#how-to-open-the-hosts-file) your `hosts` file
+1. [Open your `hosts` file](#how-to-open-the-hosts-file)
 1. Either remove the added lines or type `#` in front of the lines you want to ignore
 1. Save your changes
