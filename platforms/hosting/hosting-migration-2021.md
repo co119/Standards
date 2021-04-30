@@ -1,5 +1,9 @@
 # Hosting Migration 2021
 
+## Migration Tracking
+
+To help track the progress of this migration, we are using the [Company 119 Server Migration 2021](https://docs.google.com/spreadsheets/d/1duk6oSMVem-U9xJtb4PUWXWMlXjUDCvqOOCsyT7j-ZU/edit#gid=2028465986) spreadsheet.
+
 ## Site Testing
 
 After sites are initially moved to their new Chimera VPS, testing must be done to ensure the sites are functioning as expected.
