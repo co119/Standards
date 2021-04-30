@@ -6,6 +6,13 @@ After sites are initially moved to their new Chimera VPS, testing must be done t
 
 In order to properly test the sites, you will need to temporarily set the DNS for a site using your local `hosts` file.
 
+-  [How to open the `hosts` file](#how-to-open-the-hosts-file)
+-  [How to format the `hosts` file](#how-to-format-the-hosts-file)
+-  [How to test the `hosts` file changes](#how-to-test-the-hosts-file-changes)
+-  [How to remove the `hosts` file changes](#how-to-remove-the-hosts-file-changes)
+
+---
+
 ### How to open the `hosts` file
 
 #### On Windows
@@ -27,6 +34,8 @@ In order to properly test the sites, you will need to temporarily set the DNS fo
 1. Exit with `Ctrl + X`
 1. In Terminal, type `sudo killall -HUP mDNSResponder` followed by `Return` to clear your Mac’s DNS cache
 
+---
+
 ### How to format the `hosts` file
 
 1. Add a new line below any existing records
@@ -35,7 +44,9 @@ In order to properly test the sites, you will need to temporarily set the DNS fo
 1. Enter the `domain name`
 1. Save your changes
 
-### How to test your `hosts` file changes
+---
+
+### How to test the `hosts` file changes
 
 #### On Windows
 
@@ -53,7 +64,9 @@ In order to properly test the sites, you will need to temporarily set the DNS fo
 1. In the results, make sure the returned IP address matches the IP address set in your `hosts` file
 1. Terminate the process with `Ctrl + Z`
 
-### How to remove your `hosts` file changes
+---
+
+### How to remove the `hosts` file changes
 
 1. [Open](#how-to-open-the-hosts-file) your `hosts` file
 1. Either remove the added lines or type `#` in front of the lines you want to ignore
