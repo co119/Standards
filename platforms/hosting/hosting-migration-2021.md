@@ -8,12 +8,13 @@ To help track the progress of this migration, we are using the [Company 119 Serv
 
 After sites are initially moved to their new Chimera VPS, testing must be done to ensure the sites are functioning as expected.
 
-In order to properly test the sites, you will need to temporarily set the DNS for a site using your local `hosts` file.
+In order to properly test the sites, you will need to temporarily set the DNS for a site using your local `hosts` file. To do that, follow these steps:
 
--  [How to open the `hosts` file](#how-to-open-the-hosts-file)
--  [How to format the `hosts` file](#how-to-format-the-hosts-file)
--  [How to test the `hosts` file changes](#how-to-test-the-hosts-file-changes)
--  [How to remove the `hosts` file changes](#how-to-remove-the-hosts-file-changes)
+1. [Open](#how-to-open-the-hosts-file) the `hosts` file
+1. [Edit](#how-to-format-the-hosts-file) the `hosts` file
+1. [Test](#how-to-test-the-hosts-file-changes) the `hosts` file changes
+1. Test the website's functionality and appearance
+1. [Remove](#how-to-remove-the-hosts-file-changes) the `hosts` file changes
 
 ---
 
@@ -40,7 +41,7 @@ In order to properly test the sites, you will need to temporarily set the DNS fo
 
 ---
 
-### How to format the `hosts` file
+### How to edit the `hosts` file
 
 1. Add a new line below any existing records
 1. Type in the `IP address`
