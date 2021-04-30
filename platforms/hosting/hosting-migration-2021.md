@@ -10,9 +10,8 @@ After sites are initially moved to their new Chimera VPS, testing must be done t
 
 In order to properly test the sites, you will need to temporarily set the DNS for a site using your local `hosts` file. To do that, follow these steps:
 
-1. [Open](#how-to-open-the-hosts-file) the `hosts` file
-1. [Edit](#how-to-format-the-hosts-file) the `hosts` file
-1. [Test](#how-to-test-the-hosts-file-changes) the `hosts` file changes
+1. [Open](#how-to-open-the-hosts-file) & [edit](#how-to-format-the-hosts-file) your computer's `hosts` file
+1. [Confirm](#how-to-test-the-hosts-file-changes) the `hosts` file changes are in place and working
 1. Test the website's functionality and appearance
 1. [Remove](#how-to-remove-the-hosts-file-changes) the `hosts` file changes
 
@@ -60,6 +59,7 @@ In order to properly test the sites, you will need to temporarily set the DNS fo
 1. In the `Command Prompt`, type `ipconfig domain.com` (replace `domain.com` with the domain you are testing)
 1. Press `Enter`
 1. In the results, look for the line labeled `IPv4 Address` and make sure it matches the IP address set in your `hosts` file
+1. If the IP address is not correct, verify that you edited the `hosts` file correctly
 
 #### On Mac
 
@@ -67,7 +67,7 @@ In order to properly test the sites, you will need to temporarily set the DNS fo
 1. Type `ping domain.com` (replace `domain.com` with the domain you are testing)
 1. Press `Return`
 1. In the results, make sure the returned IP address matches the IP address set in your `hosts` file
-1. Terminate the process with `Ctrl + Z`
+1. If the IP address is not correct, verify that you edited the `hosts` file correctly
 
 ---
 
