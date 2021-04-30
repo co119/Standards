@@ -2,7 +2,7 @@
 
 ## Migration Tracking
 
-To help track the progress of this migration, we are using the [Company 119 Server Migration 2021](https://docs.google.com/spreadsheets/d/1duk6oSMVem-U9xJtb4PUWXWMlXjUDCvqOOCsyT7j-ZU/edit#gid=2028465986) spreadsheet.
+To help track the progress of this migration, we are using the <a href="https://docs.google.com/spreadsheets/d/1duk6oSMVem-U9xJtb4PUWXWMlXjUDCvqOOCsyT7j-ZU/edit#gid=2028465986" target="_blank">Company 119 Server Migration 2021</a> spreadsheet.
 
 ## Site Testing
 
