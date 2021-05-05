@@ -14,7 +14,7 @@ In order to test the sites, you will need to temporarily set the DNS for a site 
 1. [Confirm](#how-to-test-the-hosts-file-changes) the `hosts` file changes are in place and working
 1. Test the website's functionality and appearance
 1. Once tested, mark the 'Testing Results' column in the <a href="https://docs.google.com/spreadsheets/d/1duk6oSMVem-U9xJtb4PUWXWMlXjUDCvqOOCsyT7j-ZU/edit#gid=2028465986" target="_blank">Migration Tracking spreadsheet</a> with the proper response
-1. If there are issues found during testing, describe the issues within the 'Testing Notes' column in the <a href="https://docs.google.com/spreadsheets/d/1duk6oSMVem-U9xJtb4PUWXWMlXjUDCvqOOCsyT7j-ZU/edit#gid=2028465986" target="_blank">Migration Tracking spreadsheet</a>
+1. If issues are found during testing, describe the issues within the 'Testing Notes' column in the <a href="https://docs.google.com/spreadsheets/d/1duk6oSMVem-U9xJtb4PUWXWMlXjUDCvqOOCsyT7j-ZU/edit#gid=2028465986" target="_blank">Migration Tracking spreadsheet</a>
 1. [Remove](#how-to-remove-the-hosts-file-changes) the `hosts` file changes
 
 ---
