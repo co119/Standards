@@ -29,6 +29,7 @@ In order to test the sites, you will need to temporarily set the DNS for a site 
 1. From Notepad, open the following file: `c:\Windows\System32\Drivers\etc\hosts`
 1. Make the necessary changes to the file
 1. Select `File` > `Save` to save your changes
+1. In the `Command Prompt`, type `ipconfig /flushdns` to clear your machine's DNS cache
 
 #### On Mac
 
@@ -38,7 +39,7 @@ In order to test the sites, you will need to temporarily set the DNS for a site 
 1. Make the necessary changes to the file.
 1. Save the file by pressing `Ctrl + O`
 1. Exit with `Ctrl + X`
-1. In Terminal, type `sudo killall -HUP mDNSResponder` followed by `Return` to clear your Mac’s DNS cache
+1. In Terminal, type `sudo killall -HUP mDNSResponder` followed by `Return` to clear your machine’s DNS cache
 
 ---
 
