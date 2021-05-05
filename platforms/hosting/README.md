@@ -6,7 +6,7 @@ The Company 119 web hosting is currently comprised of three services, all contra
 
 Our newest hosting environment - named [Chimera](https://en.wikipedia.org/wiki/Chimera) - is a dedicated Linux server set up with four (4) separate VPS's or Virtual Private Servers.
 
--  **WEB01** - For high-traffic, high-priority websites
+-  **WEB01** (50.28.43.37) - For high-traffic, high-priority websites
 -  **WEB02** - Basic website hosting
 -  **WEB03** - Basic website hosting
 -  **GEOWEB01** - Dedicated for Geauga County websites
