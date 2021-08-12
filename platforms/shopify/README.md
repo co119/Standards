@@ -9,7 +9,7 @@ Development stores allow us to build out the new e-comm site free-of-charge befo
 Follow these steps to set up a new Shopify development store:
 
 1. Go to <a href="https://shopify.com/partners/" target="_blank">shopify.com/partners</a>
-1. Log in using the christian@company119.com in [LastPass](/tools/lastpass)
+1. Log in using the credentials in [LastPass](/tools/lastpass)
 1. On the `"Stores"` page, click the `"Add Store"` button
 1. Select `"Development store"`
 1. Fill out the `"Login information"` and `"Store address"`
