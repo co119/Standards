@@ -6,7 +6,7 @@ https://documentation.meraki.com/MX/Client_VPN/Client_VPN_OS_Configuration
 
 All credentials needed to access the VPN are stored in the `Shared-Client Credentials\Company 119 Internal` folder in [LastPass](../lastpass).
 
-## Accessing the "Client"s Folder
+## Accessing the "Clients" Folder
 
 Once connected through the VPN, you'll need to map the following network drive in order to gain access to the client folder: `\\10.10.119.10\Company 119`
 
