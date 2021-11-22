@@ -3,3 +3,4 @@
 -  [Platforms](platforms)
 -  [Tools](tools)
 -  [Implementation](implementation)
+-  [Estimating](estimating)
