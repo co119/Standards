@@ -1,6 +1,8 @@
 # Estimating
 
-## 1. Request
+## Protocol
+
+### 1. Request
 
 When a **Salesperson** or **Client Advisor** needs to request an estimate from the production team, they _must_ follow this process...
 
@@ -9,10 +11,29 @@ When a **Salesperson** or **Client Advisor** needs to request an estimate from t
 1. Add the "estimating" tag to the task
 1. Assign the task to the appropriate **Project Manager** depending on the project type (REC, RAO, 1X, or MNT)
 
-## 2. Acknowledgement
+### 2. Acknowledgement
 
-When a **Project Manager** receives an estimating request, they must ackownledge their receipt of the reqeust following Company 119's [Communication Rules](/processes/communication).
+When the estimator receives a new estimating request, they must ackownledge receipt of the request following Company 119's defined [Communication Rules](/processes/communication).
 
-## 3. Assessment
+### 3. Assessment
 
-## 4. Response
+Within 24-hours of receiving the estimating request, the estimator _must_ begin reviewing the request. From here, there are two paths...
+
+#### More Details Are Needed...
+
+The estimator must request the details through [ClickUp](/tools/clickup/) following these steps:
+
+1. Tag the requestor in the comment
+1. List the additional details needed
+1. Assign comment to the requestor
+1. Add the tag of 'question' to the task
+
+#### No Additional Details Needed...
+
+The estimator must notify the requestor within [ClickUp](/tools/clickup/) when the estimate will be ready for internal review following these steps:
+
+1. Tag the requestor in the comment
+1. Inform the requestor what date they will receive the estimate (this cannot be farther out than 48 hours from the current date)
+1. Set the task due date to be the same as above
+
+### 4. Response
