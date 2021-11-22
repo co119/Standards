@@ -28,12 +28,16 @@ The estimator must request the details through [ClickUp](/tools/clickup/) follow
 1. Assign comment to the requestor
 1. Add the tag of 'question' to the task
 
+Once the requestor provides the details, repeat the Assessment step until no additional details are required to complete the estimating task.
+
 #### No Additional Details Needed...
 
 The estimator must notify the requestor within [ClickUp](/tools/clickup/) when the estimate will be ready for internal review following these steps:
 
 1. Tag the requestor in the comment
-1. Inform the requestor what date they will receive the estimate (this cannot be farther out than 48 hours from the current date)
+1. Inform the requestor what date they will receive the estimate (this cannot be farther out than 24 hours from the current date)
 1. Set the task due date to be the same as above
 
-### 4. Response
+### 4. Build & Respond
+
+Once all the details are gathered and before the due date, the estimator will build the estimate and provide the estimated hours to the requestor via [ClickUp](/tools/clickup/).
