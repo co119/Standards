@@ -7,9 +7,10 @@
 When a **Salesperson** or **Client Advisor** needs to request an estimate from the production team, they _must_ follow this process...
 
 1. Add an task into [ClickUp](/tools/clickup/) under `Company 119 -> Estimates -> [project_type] Estimates`
-1. Enter all pertinent details of the request should be added to the task's description
+1. Enter all pertinent details of the request to the task's description
 1. Add the "estimating" tag to the task
 1. Assign the task to the appropriate **Project Manager** depending on the project type (REC, RAO, 1X, or MNT)
+2. Assign a due date of the same day for tasks created before 4 p.m. and a due date of the next business day for tasks created after 4 p.m.
 
 ### 2. Acknowledgement
 
@@ -41,3 +42,10 @@ The estimator must notify the requestor within [ClickUp](/tools/clickup/) when t
 ### 4. Build & Respond
 
 Once all the details are gathered and before the due date, the estimator will build the estimate and provide the estimated hours to the requestor via [ClickUp](/tools/clickup/).
+
+### Addendum: REC/RAO Estimating Goals
+
+The following are the goals for the REC/RAO team:
+
+* Costing received by 3 p.m. Monday-Thursday will be turned around the same day with the exception of special circumstances. Costing received after 3 p.m. Monday-Thursday will be turned around by the end of the business next day. In the case of special circumstances, a new due date will be agreed upon by the requestor and the estimator.
+* Costing received by noon Friday will be turned around the same day with the exception of special circumstance. Costing received after 3 p.m. Friday will be turned around by the end of the business next day. In the case of special circumstances, a new due date will be agreed upon by the requestor and the estimator.
