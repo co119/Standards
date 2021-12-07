@@ -52,4 +52,4 @@ The following are the goals for the REC/RAO team:
 
 ### Addendum: 1X Estimating
 
-For December, the DEV team will be costing for 1 hr. on Tuesdays and Thursdays.
+For December 2021, the DEV team will only be costing for 1 hr. on Tuesdays and Thursdays.
