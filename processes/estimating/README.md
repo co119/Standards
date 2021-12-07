@@ -7,9 +7,9 @@
 When a **Salesperson** or **Client Advisor** needs to request an estimate from the production team, they _must_ follow this process...
 
 1. Add an task into [ClickUp](/tools/clickup/) under `Company 119 -> Estimates -> [project_type] Estimates`. This *must* be in this area or the estimate *will not* get completed in a timely fashion.
-3. Enter all pertinent details of the request to the task's description
-4. Add the "estimating" tag to the task
-5. Assign the task to the appropriate **Project Manager** depending on the project type (REC, RAO, 1X, or MNT)
+3. Enter all pertinent details of the request to the task's description.
+4. Add the "estimating" tag to the task.
+5. Assign the task to the appropriate **Project Manager** depending on the project type (REC, RAO, 1X, or MNT).
 6. Assign a due date of the same day for tasks created before 4 p.m. and a due date of the next business day for tasks created after 4 p.m.
 
 ### 2. Acknowledgement
