@@ -49,3 +49,7 @@ The following are the goals for the REC/RAO team:
 
 * Costing received by 3 p.m. Monday-Thursday will be turned around the same day with the exception of special circumstances. Costing received after 3 p.m. Monday-Thursday will be turned around by the end of the business next day. In the case of special circumstances, a new due date will be agreed upon by the requestor and the estimator.
 * Costing received by noon Friday will be turned around the same day with the exception of special circumstance. Costing received after 3 p.m. Friday will be turned around by the end of the business next day. In the case of special circumstances, a new due date will be agreed upon by the requestor and the estimator.
+
+### Addendum: 1X Estimating
+
+For December, the DEV team will be costing for 1 hr. on Tuesdays and Thursdays.
