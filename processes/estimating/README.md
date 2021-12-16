@@ -14,7 +14,7 @@ When a **Salesperson** or **Client Advisor** needs to request an estimate from t
 
 ### 2. Acknowledgement
 
-When the estimator receives a new estimating request, they must ackownledge receipt of the request following Company 119's defined [Communication Rules](/processes/communication).
+When the estimator receives a new estimating request, they must acknowledge receipt of the request following Company 119's defined [Communication Rules](/processes/communication).
 
 ### 3. Assessment
 
@@ -47,7 +47,7 @@ Once all the details are gathered and before the estimate is due, the estimator 
 The following are the goals for the REC/RAO team:
 
 * Costing received by 3 p.m. Monday-Thursday will be turned around the same day with the exception of special circumstances. Costing received after 3 p.m. Monday-Thursday will be turned around by the end of the business next day. In the case of special circumstances, a new due date will be agreed upon by the requestor and the estimator.
-* Costing received by noon Friday will be turned around the same day with the exception of special circumstance. Costing received after 3 p.m. Friday will be turned around by the end of the business next day. In the case of special circumstances, a new due date will be agreed upon by the requestor and the estimator.
+* Costing received by noon Friday will be turned around the same day with the exception of special circumstance. Costing received after noon on Friday will be turned around by the end of the business next day. In the case of special circumstances, a new due date will be agreed upon by the requestor and the estimator.
 
 ### Addendum: 1X Estimating
 
